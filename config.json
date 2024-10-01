@@ -24,21 +24,21 @@
             "ip": "auto",
             "port": 5555,
             "type": 1,
-            "loginUrl": "gtps.pw",
+            "loginUrl": "mantaps-loginurl.vercel.app",
             "maint": "Failed login, please contact discord Alukard A.K.A GTPSHAX",
             "meta": "GrowPlus",
             "beta": {
-                "server": "gtps.pw",
+                "server": "mantaps-loginurl.vercel.app",
                 "port": 28028,
                 "type": 1
             },
             "beta2": {
-                "server": "gtps.pw",
+                "server": "mantaps-loginurl.vercel.app",
                 "port": 28028,
                 "type": 1
             },
             "beta3": {
-                "server": "gtps.pw",
+                "server": "mantaps-loginurl.vercel.app",
                 "port": 28028,
                 "type": 1
             }
